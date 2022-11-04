@@ -1,0 +1,13 @@
+* {
+    color: #ebdbb2;
+    background-color: #282828;
+    font-family: sans-serif;
+}
+
+#description, #ingredients, #directions {
+    text-align: center;
+}
+img {
+    max-width: 90%;
+    max-height: 400px;
+}
